@@ -3,7 +3,7 @@ const jwksClient = require('jwks-rsa');
 const axios = require('axios');
 const crypto = require('crypto');
 
-Configuration
+// Configuration
 // Replace with your actual JWT token
 const tokenString = "<YOUR_ACCESS_TOKEN>";
 // Replace with your JWKS endpoint URL  
